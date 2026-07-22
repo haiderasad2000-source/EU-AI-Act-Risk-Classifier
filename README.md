@@ -243,7 +243,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## 📬 Contact & Support
 
-Built by [Your Name](https://github.com/haiderasad2000-source) – feel free to reach out for questions or collaborations.
+Built by [Asad Haider](https://github.com/haiderasad2000-source) – feel free to reach out for questions or collaborations.
 
 ---
 
